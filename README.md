@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="./logo.png" alt="Logo">
+<img src="./logo.png" alt="Logo" height="500px">
 <br>
 <br>
 </h1>
@@ -11,7 +11,9 @@
 - **Estrutura da aplicação feita utilizando HTML.**
 - **Estilo e animações com uso de CSS.**
 - **Interação da aplicação com JavaScript.**
+- **Consumo de API publica para apresentar ao usuário as letras das musicas.**
 - **Framework Electron utilizando tecnologias web para criar aplicação desktop de forma fácil e produtiva.**
+
 
 🎨 Criação da identidade visual do projeto
 
